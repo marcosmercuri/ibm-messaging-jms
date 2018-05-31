@@ -1,0 +1,8 @@
+ibm:
+  mq:
+    queueManager: MQTESOD01
+    channel: DEV.ADMIN.SVRCONN
+    connName: localhost(1414)
+    user: admin
+    password: passw0rd
+    queue: DEV.QUEUE.1
